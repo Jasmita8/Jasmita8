@@ -1,13 +1,7 @@
-### Hola 👋, I'm [Pawan]
+### Hola 👋, I'm [Jasmita]
 
-<a href="">
-  <img align="left" alt="Pawan's Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />
-</a>
-<a href="https://www.linkedin.com/in/apawan/">
-  <img align="left" alt="Pawan's Linkdein" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
-</a>
 
-[![GitHub followers](https://img.shields.io/github/followers/c01d43am.svg?style=social&label=Follow)](https://github.com/c01d43am?tab=followers)
+
 
 #### Talking about Personal Stuffs!
 
@@ -23,7 +17,6 @@
 
 </br>
 
-![Pawan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=c01d43am&hide=[%22issues%22,%22contribs%22]&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 <!---
 Jasmita8/Jasmita8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
